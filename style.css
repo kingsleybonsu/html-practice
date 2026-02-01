@@ -1,0 +1,18 @@
+.image-section{
+    background-image: url("https://images.pexels.com/photos/5212331/pexels-photo-5212331.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+    border-radius: 53px 53px;
+    padding: 24px 30px;
+    width: 86vw;
+    height: 100vh;  
+}
+
+.main-head{
+    background: fixed;
+    background-color: gray;
+    border-radius: 10px;
+}
+
+.main-head p{
+    color: aliceblue;
+    font-size: large;
+}
